@@ -6,13 +6,15 @@ Avaliação da disciplina Ethereum Dapps and API integrations no curso MBA Block
 
 Dado o token `FIAP token`, publicado na testnet Ropsten:
 * endereço: `0xa4cedb7277baec50e0445d65bd84869e666fbb18`
-* no Etherscan: [0xa4cedb7277baec50e0445d65bd84869e666fbb18](https://ropsten.etherscan.io/address/0xa4cedb7277baec50e0445d65bd84869e666fbb18)
+* etherscan: [0xa4cedb7277baec50e0445d65bd84869e666fbb18](https://ropsten.etherscan.io/address/0xa4cedb7277baec50e0445d65bd84869e666fbb18)
 * transação: [0xa976f5072b7d047a8f6a7e628a63b4b7a1370815d9bf1145e0253bc41b47d718](https://ropsten.etherscan.io/tx/0xa976f5072b7d047a8f6a7e628a63b4b7a1370815d9bf1145e0253bc41b47d718)
 * [OneClickDapp](https://oneclickdapp.com/prague-demo/)
-* Código fonte verificado no Etherscan: [code](https://ropsten.etherscan.io/address/0xa4cedb7277baec50e0445d65bd84869e666fbb18#code)
+* código fonte verificado no Etherscan: [code](https://ropsten.etherscan.io/address/0xa4cedb7277baec50e0445d65bd84869e666fbb18#code)
 
 > Interação através do EtherScan:
+> 
 > [leitura](https://ropsten.etherscan.io/address/0xa4cedb7277baec50e0445d65bd84869e666fbb18#readContract)
+> 
 > [escrita](https://ropsten.etherscan.io/address/0xa4cedb7277baec50e0445d65bd84869e666fbb18#writeContract)
 
 Faça um frontend para interagir com este token.
@@ -40,17 +42,17 @@ O frontend será avaliado pelos critérios:
 - tratamento de erros (1,0 ponto)
 - atende às 12 especificações listadas acima (6,0 pontos)
 
-### Tratamento de erros
+#### Tratamento de erros
 Por tratamento de erros, será avaliado qual o retorno quando tentamos interagir de forma errada com o token. 
 
 Exemplos:
 - Transferir um valor maior do que o saldo em uma conta
 - Inverter os parâmetros do approve
-- Fazer um transferFrom de uma conta que não tem autorização.
+- Fazer um transferFrom de uma conta que não tem autorização
 
-Será avaliado se em situações como estas ou qualquer outra de erros dos usuários, são retornadas mensagens amigáveis para o usuário.
+Será avaliado se, em situações como estas ou qualquer outra de erros dos usuários, são retornadas mensagens amigáveis para o usuário.
 
-## arquivo READ.me
+## Arquivo READ.me
 (2,0 pontos)
 
 Crie um arquivo READ.me contendo:
