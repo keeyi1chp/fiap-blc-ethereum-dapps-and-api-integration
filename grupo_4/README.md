@@ -6,7 +6,7 @@
 ## Frontend para um smart contract
 
 
-Token 4está publicado na testnet Ropsten:
+Token 4 está publicado na testnet Ropsten:
 * endereço: `0x0BDC8D9Df9891F83e85c71269E27dBAE2adBA7D7`
 * transação: [0x32030a036f9e1ba5fbd17fbed0fa1131cf8bd43083de46f80f8e995c8df2397c](https://ropsten.etherscan.io/tx/0x32030a036f9e1ba5fbd17fbed0fa1131cf8bd43083de46f80f8e995c8df2397c)
 * código fonte [aqui](https://github.com/solangegueiros/fiap-blc-ethereum-dapps-and-api-integration/blob/master/grupo_4/Token4.sol)
