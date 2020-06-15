@@ -1,20 +1,15 @@
 # Grupo 5
-- 333732 - Carlos Ulisses Flores
-- 334200 - Eduardo Borges Florencio
-- 334256 - Leonardo Santos Silva
-- 334945 - Sérgio Henrique Da Silva
+- 334333 - Adonai Martinho Moreira
+- 334164 - Luciano Tadeu Pereira
+- 333946 - Alexandre Akel
 
 ## Frontend para um smart contract
 
-- Wadaag é um projeto de economia colaborativa. 
-- Para uma pessoa investir no projeto, ela deve fazer um depósito em Ether utilizando a função deposit.
-- Quando uma pessoa fizer um depósito, o valor depositado será dividido proporcionalmente pelas pessoas que já depositaram antes dela deste depósito.
-- Quando a próxima pessoa fizer depósito, a pessoa anterior vai receber a sua parte também.
 
-Wadaag Grupo 5 está publicado na testnet Ropsten:
-* endereço: `0xe715DE77B6248E2ef89C4fEF9835A6927628Bc1A`
-* transação: [0x909acf262ad2b734230314b153a664a48053ab0f0e511294c0dc64d14a5aed51](https://ropsten.etherscan.io/tx/0x909acf262ad2b734230314b153a664a48053ab0f0e511294c0dc64d14a5aed51)
-* código fonte [aqui](https://github.com/solangegueiros/fiap-blc-ethereum-dapps-and-api-integration/blob/master/grupo_5/Wadaag.sol)
+Token 4está publicado na testnet Ropsten:
+* endereço: `0x0BDC8D9Df9891F83e85c71269E27dBAE2adBA7D7`
+* transação: [0x32030a036f9e1ba5fbd17fbed0fa1131cf8bd43083de46f80f8e995c8df2397c](https://ropsten.etherscan.io/tx/0x32030a036f9e1ba5fbd17fbed0fa1131cf8bd43083de46f80f8e995c8df2397c)
+* código fonte [aqui](https://github.com/solangegueiros/fiap-blc-ethereum-dapps-and-api-integration/blob/master/grupo_4/Token4.sol)
 
 Faça um frontend para interagir com este smart contract.
 
